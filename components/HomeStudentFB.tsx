@@ -24,7 +24,7 @@ const testimonial: TestimonialAttributes = {
   position: "Student | Panaverse",
   company: "PIAIC",
   image:
-    "https://www.simpleimageresizer.com/_uploads/photos/0d176b6e/PXL_20230201_111255026.PORTRAIT_0.jpg"
+    "https://www.simpleimageresizer.com/_uploads/photos/b9d65daa/PXL_20230201_111255026.PORTRAIT_54.jpg"
 
 };
 
