@@ -20,7 +20,7 @@ interface TestimonialAttributes {
 }
 
 const testimonial: TestimonialAttributes = {
-  username: "M.Dawood Rizwan",
+  username: "Dawood Rizwan",
   position: "Student | Panaverse",
   company: "PIAIC",
   image:
@@ -46,7 +46,7 @@ const HomeStudentFB = () => {
         pos="relative"
       >
         <Icon
-        //  as={FaQuoteRight}
+         as={FaQuoteRight}
           w={10}
           h={10}
           color="#D2001A"

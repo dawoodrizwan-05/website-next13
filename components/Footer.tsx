@@ -129,7 +129,7 @@ import {
               Made with 💖 by{" "}
             </Text>
             <Link href="https://github.com/dawoodrizwan-05">
-              M.Dawood Rizwan
+              Dawood Rizwan
             </Link>
           </Box>
         </HStack>
