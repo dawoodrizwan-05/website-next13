@@ -60,7 +60,7 @@ export default function Navbar() {
         boxShadow="md"
         position={"sticky"}
         top={"20px"}
-        bg={useColorModeValue("#EFEFEF", "gray.900")}
+        bg={useColorModeValue("red", "red")}
         px={4}
       >
         <Flex h={"80px"} alignItems={"center"} justifyContent={"space-between"}>

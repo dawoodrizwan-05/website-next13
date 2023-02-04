@@ -1,10 +1,10 @@
-"use client";
-import React from 'react'
+// "use client";
+// import React from 'react'
 
-function Courses() {
-  return (
-    <div>Courses</div>
-  )
-}
+// function Courses() {
+//   return (
+//     <div>Courses</div>
+//   )
+// }
 
-export default Courses
+// export default Courses

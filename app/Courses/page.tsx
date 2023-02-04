@@ -17,7 +17,7 @@ import {
 } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 import { FaCode } from "react-icons/fa";
-import Footer from "@/components/Footer";
+//import Footer from "@/components/Footer";
 interface CardProps {
   title: string;
   categories: string[];
@@ -213,7 +213,7 @@ function Courses() {
             bg={useColorModeValue("white", "gray.800")}
             p={{ base: 4, sm: 8 }}
             overflow="hidden"
-            rounded="2xl"
+           
           >
             <Stack
               pos="relative"
@@ -239,7 +239,7 @@ function Courses() {
 
       <CoursesSec />
       <hr />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

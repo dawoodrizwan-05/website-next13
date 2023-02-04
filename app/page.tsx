@@ -3,7 +3,7 @@ import { Inter } from "@next/font/google";
 
 import Navbar from "@/components/Navbar";
 import MainBanner from "@/components/MainBanner";
-import HomeFeatures from "@/components/HomeCourses";
+//import HomeFeatures from "@/components/HomeCourses";
 import HomeObjct from "@/components/HomeObjct";
 import HomeIntro from "@/components/HomeIntro";
 import HomeProgram from "@/components/HomeProgram";
@@ -34,7 +34,7 @@ export default function Home() {
         whileInView={{ x: 0 }}
         transition={{ duration: 0.7 }}
       >
-        <HomeFeatures />
+        {/* <HomeFeatures /> */}
       </motion.div>
       <hr />
       <motion.div
